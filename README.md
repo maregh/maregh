@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate
+- 💬 Ask me about my education
+
+📫 How to reach me: my email
+😄 Pronouns: she/her
+⚡ Fun fact: I have perfect pitch
+
 <!--
 **maregh/maregh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
