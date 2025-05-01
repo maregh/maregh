@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate
+- 🔭 I’m currently working on staying hydrated
+- 🌱 I’m currently learning GitHub!
+- 👯 Open to collaborate
 - 💬 Ask me about my education
 
-📫 How to reach me: my email
-😄 Pronouns: she/her
+📫 mr428529@dal.ca
+
 ⚡ Fun fact: I have perfect pitch
 
 <!--
