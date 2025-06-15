@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on staying hydrated
-- 🌱 I’m currently learning GitHub!
-- 👯 Open to collaborate
-- 💬 Ask me about my education
+- 🔭 Neuroscience, Neurotechnology & Innovation student @ Dalhousie University
+- 🌱 GitHub novie
+- 👯 Open to collaborate (whatever that means!)
+- 💬 I’m currently working on... staying hydrated
 
 📫 mr428529@dal.ca
 
