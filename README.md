@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Peanut butter pickle sandwhich girl
+
 - 🔭 Neuroscience, Neurotechnology & Innovation student @ Dalhousie University
 - 🌱 GitHub novie
 - 👯 Open to collaborate (whatever that means!)
