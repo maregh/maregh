@@ -1,6 +1,7 @@
 ## Hi There! 👋
-![Alt Text](https://wallup.net/wp-content/uploads/2016/02/18/286992-nature-colorful-photography.jpg)
+![IMG_9184](https://github.com/user-attachments/assets/7ea84d65-05c5-43d9-b2f3-f561d6b20963)
 My name is Maria (AKA peanut butter pickle sandwhich girl)
+
 
 I am in my 3rd year of a ✨*neuroscience*✨ degree
 
