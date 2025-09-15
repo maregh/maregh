@@ -1,5 +1,7 @@
 ## Hi There! 👋
-![IMG_9184](https://github.com/user-attachments/assets/7ea84d65-05c5-43d9-b2f3-f561d6b20963 width="300" height="200")
+![IMG_9184](https://github.com/user-attachments/assets/7ea84d65-05c5-43d9-b2f3-f561d6b20963)
+<img src="image.jpg" alt="Description" width="300" height="200">
+
 My name is Maria (AKA peanut butter pickle sandwhich girl)
 
 
