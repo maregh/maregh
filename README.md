@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There! 👋
 My name is Maria (AKA peanut butter pickle sandwhich girl)
 
 I am in my 3rd year of a ✨*neuroscience*✨ degree
