@@ -1,9 +1,12 @@
 ## Hi there 👋
 My name is Maria (AKA peanut butter pickle sandwhich girl)
+
 I am in my 3rd year of a ✨*neuroscience*✨ degree
 
-I enrolled in this course because I want to be able to understand raw eeg data and not just see squiggles...
-interested in neuroscience from psych and noticed the neuro program was very similar to the psych program here at dal, so i figured why not try!
+I enrolled in Neural Data Science because I really want to be able to understand raw eeg data and not just see squiggles...
+
+Interested in neuroscience from psych and noticed the neuro program was very similar to the psych program here at dal, so i figured why not try!
+
 I'm into biotech and innovation
 
 
