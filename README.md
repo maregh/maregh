@@ -9,6 +9,8 @@ Interested in neuroscience from psych and noticed the neuro program was very sim
 
 I'm into biotech and innovation
 
+𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
+
 
 - 🔭 Neuroscience, Neurotechnology & Innovation student @ Dalhousie University
 - 🌱 GitHub novie
